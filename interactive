@@ -1,8 +1,8 @@
 [
     {
         "action": "talk",
-        "text": "Welcome to Osaango",
-        "voiceName": "Satu",
+        "text": "Welcome to <speak><lang xml:lang='fi-FI'>Osaango</lang></speak>",
+        "voiceName": "Amy",
         "bargeIn": false
     },
     {
