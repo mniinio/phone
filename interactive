@@ -7,25 +7,13 @@
     },
     {
         "action": "talk",
-        "text": "Press 1, for English, or 2 for Finnish, followed by the hash key.",
-        "voiceName": "Salli",
-        "bargeIn": true
-    },
-    {
-        "action": "input",
-        "submitOnHash": true,
-        "timeOut": 10
-    },
-    {
-        "action": "talk",
-        "text": "Thank you. We'll try to connect you with a human now",
+        "text": "We'll try to connect you with a human now",
         "voiceName": "Salli"
     },
     {
     "action": "connect",
     "eventUrl": ["https://hooks.zapier.com/hooks/catch/3188588/otw6zd4/"],
     "timeout": 45,
-    "machineDetection": "hangup",
     "from": "358942550230",
     "endpoint": [
       {
