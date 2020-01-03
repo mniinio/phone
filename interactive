@@ -20,16 +20,5 @@
            "number": "358408387308"
           }
         ]
-    },
-    {
-        "action": "connect",
-        "timeout": 60,
-        "from": "358942550230",
-        "endpoint": [
-          {
-           "type": "phone",
-           "number": "358503731600"
-          }
-        ]
     }
 ]
