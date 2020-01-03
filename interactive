@@ -1,12 +1,14 @@
 [
     {
-        "action": "stream",
-        "streamUrl": [ "https://mniinio.github.io/phone/tervetuloa-osaango.mp3" ]
+        "action": "talk",
+        "text": "Welcome to Osaango. Remember to check our website www.osaango.com",
+        "voiceName": "Salli",
+        "bargeIn": false
     },
     {
         "action": "talk",
-        "text": "Press 1, for maybe, and 2, for not sure, followed by the hash key.",
-        "voiceName": "Amy",
+        "text": "Press 1, for English, or 2 for Finnish, followed by the hash key.",
+        "voiceName": "Salli",
         "bargeIn": true
     },
     {
@@ -16,7 +18,20 @@
     },
     {
         "action": "talk",
-        "text": "Thanks for your input, goodbye.",
-        "voiceName": "Amy"
-    }
+        "text": "Thanks you. We'll try to connect you with a human now",
+        "voiceName": "Salli"
+    },
+    {
+    "action": "connect",
+    "eventUrl": ["https://hooks.zapier.com/hooks/catch/3188588/otw6zd4/"],
+    "timeout": "45",
+    "machineDetection": "hangup"
+    "from":"358942550230",
+    "endpoint": [
+      {
+        "type": "phone",
+        "number": "358408387308"
+      }
+    ]
+  }
 ]
