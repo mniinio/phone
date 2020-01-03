@@ -1,14 +1,14 @@
 [
     {
         "action": "talk",
-        "text": "<speak><lang xml:lang=\'fi-FI\'>Osaango</lang></speak>",
-        "voiceName": "Amy",
+        "text": "Welcome to Osaango",
+        "voiceName": "Salli",
         "bargeIn": false
     },
     {
         "action": "talk",
         "text": "Press 1, for maybe, and 2, for not sure, followed by the hash key.",
-        "voiceName": "Amy",
+        "voiceName": "Salli",
         "bargeIn": true
     },
     {
@@ -19,6 +19,6 @@
     {
         "action": "talk",
         "text": "Thanks for your input, goodbye.",
-        "voiceName": "Amy"
+        "voiceName": "Salli"
     }
 ]
