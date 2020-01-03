@@ -17,11 +17,7 @@
         "endpoint": [
           {
            "type": "phone",
-           "number": "358408387308",
-           "onAnswer": 
-              {
-              "url": "https://raw.githubusercontent.com/mniinio/phone/master/on-answer"
-              }
+           "number": "358408387308"
           }
         ]
     },
