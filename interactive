@@ -1,9 +1,7 @@
 [
     {
-        "action": "talk",
-        "text": "Welcome to Osaango",
-        "voiceName": "Salli",
-        "bargeIn": false
+        "action": "stream",
+        "streamUrl": [ "https://raw.githubusercontent.com/mniinio/phone/master/tervetuloa-osaango.mp3" ],
     },
     {
         "action": "talk",
