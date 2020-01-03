@@ -20,11 +20,11 @@
            "number": "358408387308",
            "onAnswer": [ "https://raw.githubusercontent.com/mniinio/phone/master/on-answer" ]
           }
-        ],
+        ]
     },
     {
        "action": "talk",
        "text": "Our customer service is busy, please try again later.",
        "voiceName": "Salli"
-    },
+    }
 ]
