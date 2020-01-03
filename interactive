@@ -20,6 +20,11 @@
         "type": "phone",
         "number": "358408387308"
       }
-    ]
+    ],
+    {
+    "action": "talk",
+    "text": "Our customer service is busy, please try again later.",
+    "voiceName": "Salli"
+    },
   }
 ]
