@@ -1,0 +1,9 @@
+
+[
+    {
+        "action": "talk",
+        "text": "You have incoming call from Osaango switchboard",
+        "voiceName": "Salli",
+        "bargeIn": false"
+    }
+]
