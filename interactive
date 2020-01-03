@@ -12,7 +12,7 @@
     },
     {
         "action": "connect",
-        "timeout": 45,
+        "timeout": 15,
         "from": "358942550230",
         "endpoint": [
           {
@@ -22,8 +22,14 @@
         ]
     },
     {
-       "action": "talk",
-       "text": "Our customer service is busy, please try again later.",
-       "voiceName": "Salli"
+        "action": "connect",
+        "timeout": 60,
+        "from": "358503731600",
+        "endpoint": [
+          {
+           "type": "phone",
+           "number": "358408387308"
+          }
+        ]
     }
 ]
