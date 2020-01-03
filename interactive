@@ -12,13 +12,13 @@
     },
     {
     "action": "connect",
-    "eventUrl": ["https://hooks.zapier.com/hooks/catch/3188588/otw6zd4/"],
     "timeout": 45,
     "from": "358942550230",
     "endpoint": [
       {
         "type": "phone",
-        "number": "358408387308"
+        "number": "358408387308",
+        "onAnswer": [ "https://raw.githubusercontent.com/mniinio/phone/master/on-answer" ]
       }
     ],
     {
