@@ -1,7 +1,7 @@
 [
     {
         "action": "talk",
-        "text": "Welcome to <speak><lang xml:lang='fi-FI'>Osaango</lang></speak>",
+        "text": "<speak><lang xml:lang='es-ES'>Hola!</lang></speak>",
         "voiceName": "Amy",
         "bargeIn": false
     },
