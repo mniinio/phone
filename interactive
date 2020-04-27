@@ -1,8 +1,7 @@
 [
     {
         "action": "talk",
-        "text": "Hello! Welcome to
-     <phoneme alphabet="ipa" ph="o s ɑ ɑ n g o">Osaango.</phoneme> You can also contact us via www.<phoneme alphabet="ipa" ph="o s ɑ ɑ n g o">osaango</phoneme>.com",
+        "text": "Hello! Welcome to <phoneme alphabet="ipa" ph="o s ɑ ɑ n g o">Osaango</phoneme>Osaango.</phoneme> You can also contact us via www.<phoneme alphabet="ipa" ph="o s ɑ ɑ n g o">osaango</phoneme>.com",
         "voiceName": "Salli",
         "bargeIn": false
     },
