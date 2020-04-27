@@ -2,13 +2,13 @@
     {
         "action": "talk",
         "text": "Welcome to Osaango. You can also contact us via www.osaango.com",
-        "voiceName": "Amy",
+        "voiceName": "Emma",
         "bargeIn": false
     },
     {
         "action": "talk",
         "text": "Let's see if we can find you a human to talk with",
-        "voiceName": "Amy"
+        "voiceName": "Emma"
     },
     {
         "action": "connect",
