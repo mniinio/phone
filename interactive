@@ -4,7 +4,7 @@
         "text": "Hei, halusitko vastata tai kysyä jotain Salon asiakaspalvelukyselystä?",
         "voiceName": "Salli",
         "language": "fi-FI",
-        "style": 6,
+        "style": 1,
         "bargeIn": false
     },
     {
@@ -12,7 +12,7 @@
         "text": "Numerosi on tallennettu. Pyrimme soittamaan mahdollisimman monelle takaisin 25. elokuuta mennessä",
         "voiceName": "Salli",
         "language": "fi-FI",
-        "style": 6,
+        "style": 1,
         "bargeIn": false
     },
     {
