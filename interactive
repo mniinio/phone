@@ -8,20 +8,9 @@
     },
     {
         "action": "talk",
-        "text": "Numerosi on tallennettu. Yritämme yhdistää nyt ensimmäiselle vapaalle haastattelijalle. Mikäli emme juuri nyt ehdi vastata pyrimme soittamaan mahdollisimman monelle takaisin 25. elokuuta mennessä",
+        "text": "Numerosi on tallennettu. Pyrimme soittamaan mahdollisimman monelle takaisin 25. elokuuta mennessä",
         "language": "fi-FI",
         "style": 1,
         "bargeIn": false
-    },
-    {
-        "action": "connect",
-        "timeout": 15,
-        "from": "358942550230",
-        "endpoint": [
-          {
-           "type": "phone",
-           "number": "358408387308"
-          }
-        ]
     }
 ]
