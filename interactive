@@ -1,14 +1,19 @@
 [
     {
         "action": "talk",
-        "text": "Hello! Welcome to Osaango. You can also contact us via www.osaango.com",
+        "text": "Hei, halusitko vastata tai kysyä jotain Salon asiakaspalvelukyselystä?",
         "voiceName": "Salli",
+        "language": "fi-FI",
+        "style": 6,
         "bargeIn": false
     },
     {
         "action": "talk",
-        "text": "Let's see if we can find you a human to talk with",
-        "voiceName": "Salli"
+        "text": "Numerosi on tallennettu. Pyrimme soittamaan mahdollisimman monelle takaisin 25. elokuuta mennessä",
+        "voiceName": "Salli",
+        "language": "fi-FI",
+        "style": 6,
+        "bargeIn": false
     },
     {
         "action": "connect",
