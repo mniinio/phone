@@ -1,15 +1,22 @@
 [
     {
         "action": "talk",
-        "text": "Hei, soitit Osaango Oy:n toteuttamaan Salon kaupungin liikennekyselypalveluun",
+        "text": "Hi, welcome to Osaango!",
+        "language": "en-US",
+        "style": 1,
+        "bargeIn": false
+    },
+    {
+        "action": "talk",
+        "text": "Tervetuloa Osaangolle!",
         "language": "fi-FI",
         "style": 1,
         "bargeIn": false
     },
     {
         "action": "talk",
-        "text": "Numerosi on tallennettu. Yritämme yhdistää nyt ensimmäiselle vapaalle haastattelijalle. Mikäli emme juuri nyt ehdi vastata pyrimme soittamaan mahdollisimman monelle takaisin 30. elokuuta mennessä",
-        "language": "fi-FI",
+        "text": "Your number has been saved. We'll try to connect you to with someone from the team now, but in case we are busy, we'll call back as soon as possible",
+        "language": "en-US",
         "style": 1,
         "bargeIn": false
     },
@@ -20,7 +27,7 @@
         "endpoint": [
           {
            "type": "phone",
-           "number": "358400252091"
+           "number": "358408387308"
           }
         ]
     }
