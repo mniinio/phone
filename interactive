@@ -22,7 +22,7 @@
     },
     {
         "action": "connect",
-        "timeout": 3,
+        "timeout": 30,
         "from": "358942550230",
         "endpoint": [
           {
