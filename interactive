@@ -23,11 +23,11 @@
     {
         "action": "connect",
         "timeout": 30,
-        "from": "358442939776",
+        "from": "358942550230",
         "endpoint": [
           {
            "type": "phone",
-           "number": "358408387308"
+           "number": "358442939776"
           }
         ]
     }
