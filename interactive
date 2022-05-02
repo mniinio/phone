@@ -23,7 +23,7 @@
     {
         "action": "connect",
         "timeout": 30,
-        "from": "358942550230",
+        "from": "358442939776",
         "endpoint": [
           {
            "type": "phone",
