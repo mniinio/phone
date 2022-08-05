@@ -1,22 +1,29 @@
 [
     {
         "action": "talk",
-        "text": "Hi, welcome to Osaango!",
+        "text": "Hi, welcome to Punka Hub by Osaango!",
         "voiceName": "Salli",
         "style": 1,
         "bargeIn": false
     },
     {
         "action": "talk",
-        "text": "Tervetuloa Osaangolle!",
+        "text": "Tervetuloa Osaangon Punka Hubiin!",
         "language": "fi-FI",
         "style": 1,
         "bargeIn": false
     },
     {
         "action": "talk",
-        "text": "Your number has been saved. We'll try to connect you to with someone from the team now, but in case we are busy, we'll call back as soon as possible",
+        "text": "Your number has been saved. We'll try to connect you to with someone from the team now, but in case we are busy, we'll call back as soon as possible. You can also leave a message at punkahub.com",
         "voiceName": "Salli",
+        "style": 1,
+        "bargeIn": false
+    },
+    {
+        "action": "talk",
+        "text": "Numerosi on tallennettu. Yritän nyt ohjata sinut tiimillemme, mutta jos kaikki ovat varattuja soitamme takaisin mahdollisimman pian. Voit myös lähettää viestin osoitteessa punkahub.com",
+        "language": "fi-FI",
         "style": 1,
         "bargeIn": false
     },
