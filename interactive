@@ -2,8 +2,8 @@
     {
         "action": "talk",
         "text": "Hi, welcome to Punka Hub by Osaango!",
-        "voiceName": "Joanna",
-        "style": 1,
+        "language": "en-US",
+        "style": 2,
         "bargeIn": false
     },
     {
@@ -16,8 +16,8 @@
     {
         "action": "talk",
         "text": "Your number has been saved. We'll try to connect you to with someone from the team now, but in case we are busy, we'll call back as soon as possible. You can also leave a message at punkahub.com",
-        "voiceName": "Joanna",
-        "style": 1,
+        "language": "en-US",
+        "style": 2,
         "bargeIn": false
     },
     {
